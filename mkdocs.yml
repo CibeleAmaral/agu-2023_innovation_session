@@ -57,7 +57,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://cu-esiil.github.io/AGU2023
+     # link: https://cu-esiil.github.io/AGU2023
 
 extra_css:
   - stylesheets/extra.css
