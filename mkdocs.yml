@@ -12,9 +12,9 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 
 # Page tree
 nav:
- - Home: 'index.md'
- - Code of Conduct: 'foodweb.md'
-# - Rules and Responsibilities: rules-and-responsibilities.md
+ - Home: index.md
+ - Code of Conduct: code-of-conduct.md
+ - Participant Agreement: participant_agreement.md
 # - Our Custom GPT: our-custom-gpt.md
 # - Resources:
 #      - Shareholder Resources: shareholder-resources.md
