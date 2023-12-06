@@ -15,13 +15,13 @@ nav:
  - Home: index.md
  - Code of Conduct: code-of-conduct.md
  - Participant Agreement: participant_agreement.md
-# - Our Custom GPT: our-custom-gpt.md
-# - Resources:
-#      - Shareholder Resources: shareholder-resources.md
-#      - Environmental Data Science Resources: environmental-data-science-resources.md
-# - Session Information:
-#      - Panel Discussion: panel-discussion.md
-#      - Breakout Sessions: breakout-sessions.md
+ - Our Custom GPT: our-custom-gpt.md
+ - Resources:
+      - Shareholder Resources: shareholder-resources.md
+      - Environmental Data Science Resources: environmental-data-science-resources.md
+ - Session Information:
+      - Panel Discussion: panel-discussion.md
+      - Breakout Sessions: breakout-sessions.md
 
 # Configuration
 theme:
