@@ -5,7 +5,6 @@ Welcome to **Maximizing Stakeholder Engagement in EDS**, a specialized GPT desig
 ## Key Features
 
 ### In-depth Knowledge Base
-- Informed by the '[Stakeholder Engagement Guide for Nature-Based Solutions](#)'.
 - Focused on equitable, inclusive, and consistent engagement methods.
 - Understanding of local contexts and cultural competencies.
 
