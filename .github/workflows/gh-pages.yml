@@ -1,22 +1,26 @@
- name: Publish docs via GitHub
- on:
-   push:
-     branches:
-       - main
+name: Publish docs via GitHub
+on:
+  push:
+    branches:
+      - main
 
- jobs:
-   build:
-     name: Deploy docs
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v4
-       - uses: actions/setup-python@v4
-         with:
-           python-version: 3.x
-       - name: run requirements file
-         run:  pip install -r requirements.txt 
-       - name: Deploy docs
-	 run: pip install mkdocs-material
-         run: mkdocs gh-deploy --force
-         env:
-           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Deploy docs to GitHub Pages
+        run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
