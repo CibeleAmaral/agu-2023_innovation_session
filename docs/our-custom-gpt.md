@@ -1,4 +1,4 @@
-# Maximizing Stakeholder Engagement in EDS
+# GPT for Maximizing Stakeholder Engagement in EDS
 
 Welcome to **Maximizing Stakeholder Engagement in EDS**, a specialized GPT designed to offer nuanced advice and strategies for effective stakeholder engagement in environmental data science (EDS), particularly for nature-based projects.
 
