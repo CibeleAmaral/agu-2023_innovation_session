@@ -13,9 +13,15 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  # TODO: Add your nav sections / sub-sections and path to markdown page Ex:
-  # - Remote Sensing:
-  #     - How to Cloud Correct Sentinel-2 Images: remote_sensing/sentinel_2_cloud_correction/sentinel_2_cloud_correction.md
+  - Code of Conduct: code-of-conduct.md
+  - Rules and Responsibilities: rules-and-responsibilities.md
+  - Our Custom GPT: our-custom-gpt.md
+  - Resources:
+      - Shareholder Resources: shareholder-resources.md
+      - Environmental Data Science Resources: environmental-data-science-resources.md
+  - Session Information:
+      - Panel Discussion: panel-discussion.md
+      - Breakout Sessions: breakout-sessions.md
 
 # Configuration
 theme:
