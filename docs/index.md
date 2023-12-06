@@ -1,3 +1,4 @@
+
 # Maximizing Stakeholder Engagement in Open Environmental Data Science
 
 Welcome to the official page of the AGU Innovation Session on "Maximizing Stakeholder Engagement in Open Environmental Data Science." This session aims to bring together experts, practitioners, and stakeholders to explore effective strategies for enhancing collaboration and engagement in environmental data science.
