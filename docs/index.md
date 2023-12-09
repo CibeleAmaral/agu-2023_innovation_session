@@ -46,14 +46,14 @@ Following the panel discussion, participants will have the opportunity to join b
 
 ## Event Details
 
-- **Date:** [Event Date]
-- **Time:** [Event Time]
-- **Location:** [Event Location or Virtual Platform Details]
-- **Registration:** [Link to Registration or Instructions]
+- **Date:** December 15th
+- **Time:** 2:10 pm PT
+- **Location:** Room 159 - South (Upper Mezzanine, South, MC), Moscone Center 747 Howard St, San Francisco, CA 
+
 
 ## Contact
 
-For more information or inquiries about the session, please contact [Contact Name] at [Email Address].
+For more information or inquiries about the session, please contact Cibele Amaral at cibele.amaral@colorado.edu
 
 ---
 
